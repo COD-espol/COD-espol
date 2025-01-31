@@ -13,7 +13,7 @@ This repository is dedicated to the **Advancing Camouflaged Object Detection wit
 
 ## Project Structure
 
-This repository will contain multiple sub-projects, each implementing or evaluating a different **Artificial Intelligence (AI) technique** for camouflaged object detection. The techniques explored will include:
+This repository contain multiple sub-projects, each implementing or evaluating a different **Deep Neural Network Architectures** for camouflaged object detection (COD). The techniques explored will include:
 
 - **Supervised Learning**: Training models using labeled multispectral datasets.
 - **Unsupervised & Self-Supervised Learning**: Exploring alternative learning approaches for improved generalization.
