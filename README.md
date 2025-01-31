@@ -28,10 +28,6 @@ This repository contain multiple sub-projects, each implementing or evaluating a
   - **Implicit Motion Handling for Video Camouflaged Object Detection**
 - **Neural Network Architectures**: Designing custom deep learning pipelines for **cross-spectral object detection**.
 
-## Funding & Collaboration
-
-This project is funded by the **USA Air Force Office of Scientific Research** and involves collaboration with **ESPOL, CIDIS, and international research institutions**.
-
 ## How to Contribute
 
 We welcome contributions in the form of:
